@@ -54,8 +54,8 @@ pytest
 We propose 2 types of tests:
 
 1.  [test\_utils.py](test_utils.py) This file contains unit tests
-    for the functions in the `utils.py`. For instance, we can test the
-    function that decides whether or not a word is a preposition.
+    for the functions in the `utils.py` file. For instance, we can test
+    the function that decides whether or not a word is a preposition.
 
 2.  [test\_endpoint.py](test_endpoint.py) This file tests the
     `parse` endpoint. Our testsuite includes *Test Case A* and *Test Case B*
